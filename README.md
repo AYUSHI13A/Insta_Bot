@@ -1,1 +1,3 @@
 # Insta_Bot
+
+An innovative automated script meticulously crafted to engage with the popular social media platform Instagram seamlessly. This interaction is ingeniously powered by tools like Selenium, enhancing the experience by automating tasks. The script leverages the prowess of BeautifulSoup to effectively interpret the HTML content of web pages, adapting responses accordingly. The focal point of this endeavor is its prowess in data collection, unraveling its potential across various applications. This dynamic project encompasses a spectrum of capabilities, including seamless log in and log out procedures, profile searching, and exploration, follower count retrieval, as well as the remarkable ability to interact with posts through likes and unlikes.
